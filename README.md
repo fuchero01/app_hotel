@@ -1,2 +1,2 @@
 # app_hotel
-aplicación android para reservas de hotel
+aplicación android para reservas de hotel continental inn
